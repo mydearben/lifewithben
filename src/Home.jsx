@@ -2,8 +2,8 @@ import React from "react";
 import "./Home.css";
 
 function Home() {
-  const videoSource = "/BackgroundVideo.mp4";
-  const logoSource = "/Logo.png";
+  const videoSource = "BackgroundVideo.mp4";
+  const logoSource = "Logo.png";
 
   return (
     <div className="hero">
